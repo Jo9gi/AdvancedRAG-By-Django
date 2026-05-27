@@ -1,0 +1,7 @@
+Python is a high-level programming language.
+
+Django is a Python web framework.
+
+FAISS is used for vector similarity search.
+
+RAG stands for Retrieval-Augmented Generation.

@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+static/
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temp
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# MacOS
+.DS_Store
+
+# Huggingface / caches
+.cache/
+*.cache
+
+# Embeddings and large data
+rag/embeddings/
+embeddings/
+
+# Secrets
+.env
+.env.*
+
+# PyCharm
+.idea/
+
+# node
+node_modules/

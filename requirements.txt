@@ -1,0 +1,8 @@
+Django==5.2.14
+djangorestframework
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+huggingface-hub
+torch
